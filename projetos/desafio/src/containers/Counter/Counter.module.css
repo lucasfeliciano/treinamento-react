@@ -1,0 +1,13 @@
+.container > button:not(:last-child) {
+  margin-right: 5px;
+}
+
+.count {
+  background-color: lightgrey;
+  border-radius: 0.5rem;
+  justify-content: center;
+  margin: auto;
+  max-width: 5rem;
+  margin: 1rem auto;
+  padding: 0.3rem;
+}

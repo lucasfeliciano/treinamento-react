@@ -1,0 +1,14 @@
+{
+  "name": "treinamento-react",
+  "version": "1.0.0",
+  "description": "Slides e desafio para treinamento React em gerencia de estado e testes básico.",
+  "main": "index.js",
+  "scripts": {
+    "generate-pdf": "node generate-pdf.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "md-to-pdf": "^5.2.1"
+  }
+}
